@@ -121,7 +121,7 @@ body {
   .cards {
     grid-template-columns: repeat(3, 1fr);
     max-width: 900px;
-    max-height: 60vh;
+    max-height: 80%;
   }
   .cards__card-text {
     margin-bottom: 30%;
